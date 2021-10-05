@@ -64,7 +64,7 @@ After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1
 
 ## Celebrations and Limitations
 
-It's always such a joy to see a simple method yield compelling results! The full list is jam-packed with magic, mystery, and all manner of Things That Go Bump in the Night. The top Octoberness-getter, Neil Gaiman's scary story, "Click Clack the Rattle Bag," is especially lovely and completely new to me. If you can spare 10 minutes, you really must to listen to [Gaimain's New York Public Library reading of the story](https://www.youtube.com/watch?v=imLja6Emezo). It's quite the October mood-setter!
+It's always such a joy to see a simple method yield compelling results! The full list is jam-packed with magic, mystery, and all manner of Things That Go Bump in the Night. The top Octoberness-getter, Neil Gaiman's tiny scary story "Click Clack the Rattle Bag," is especially lovely and completely new to me. If you can spare 10 minutes, you really must to listen to [Gaimain's New York Public Library reading of the story](https://www.youtube.com/watch?v=imLja6Emezo). It's quite the October mood-setter!
 
 Of course, this little bottle project is (by design!) full of omissions, missed-opportunities, ignored-problems, and more besides I'm sure. 
 
