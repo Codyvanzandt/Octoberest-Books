@@ -7,7 +7,7 @@ categories:
 date: 2021-10-05
 ---
 
-## In Search of Spooky Time
+## In Search of Spooky Reads
 
 For the last few Octobers, my inner tech geek and inner October fanatic have been desperate to collaborate on a spooky data science project.
 It's a competitive field, though! There's Janelle Shane's always-excellent neural-net-generated [Halloween costumes](https://www.aiweirdness.com/halloween-costumes-by-the-neural-19-10-14/)
@@ -15,7 +15,7 @@ and [tasty(ish) treats](https://www.aiweirdness.com/easy-halloween-treats-genera
 And of course, there are the veteran spooky statisticians of the National Retail Federation, who've been running an annual [Halloween Trends Report](https://nrf.com/topics/holiday-and-seasonal-trends/halloween) for some years now.
 
 As for my own entry into this amusingly large body of Halloween hackery, I've decided to stick to my literary roots and launch what I'm calling a cultural analytics "bottle project" (*a la* television's [bottle episodes](https://en.wikipedia.org/wiki/Bottle_episode)) --
-a short-and-sweet single-method, single-dataset, single-day investigation into a simple question: which fantasy books are the "Octoberest." The great hope of the project, of course, is that the "Octoberest" books are also the spookiest, most-Halloweenest books!
+a short-and-sweet single-method, single-dataset, single-day investigation into one small question: which fantasy books are the "Octoberest." The great hope of the project, of course, is that the "Octoberest" books are also the spookiest, most-Halloweenest books!
 
 ## Computing Octoberness
 
@@ -27,7 +27,7 @@ An Octoberness score of 1, for example, means that a book receives a equal numbe
 A score of 2 means that a book receives twice as many reviews in October compared to an average non-October month.
 And a score of 0.5 means it receives half as many reviews in October compared to an average non-October month.
 
-After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1)</sup> to yield a meaningful Octoberness score, I sorted by Octoberness and collected the top "most-Octoberest" books in a handy little list. I am excessively proud to report that the result speak -- or really, *shriek* -- for themselves. I've detailed top 5 below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
+After unscrupulously tossing out books with too few reviews<sup>[1](#footnote1)</sup> to yield a meaningful Octoberness score, I sorted by Octoberness and collected the top "most-Octoberest" books in a handy little list. I am excessively proud to report that the result speak -- or really, *shriek* -- for themselves. I've detailed top 5 below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
 
 ## The Most Octoberest Books
 
@@ -64,8 +64,14 @@ After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1
 
 ## Celebrations and Limitations
 
-It's always such a joy to see a simple method yield compelling results! The full list is jam-packed with magic, mystery, and all manner of Things That Go Bump in the Night. The top Octoberness-getter, Neil Gaiman's tiny scary story "Click Clack the Rattle Bag," is especially lovely and completely new to me. If you can spare 10 minutes, you really must to listen to [Gaimain read it himself, with ambient lighting, sound, and costuming](https://www.youtube.com/watch?v=imLja6Emezo). It's quite the October mood-setter!
+It's always such a joy to see a simple method yield compelling results! The full list is jam-packed with magic, mystery, and all manner of Things That Go Bump in the Night. The top Octoberness-getter, Neil Gaiman's  scary story "Click Clack the Rattle Bag," is especially lovely and completely new to me. If you can spare 10 minutes, you really must to listen to [Gaimain read it himself, with ambient lighting, sound, and costuming](https://www.youtube.com/watch?v=imLja6Emezo). It's quite the October mood-setter!
 
-Of course, this little bottle project is (by design!) full of omissions, missed-opportunities, ignored-problems, and more besides I'm sure. 
+Of course, this little bottle project is (by design!) full of omissions, missed-opportunities, and ignored-problems. Some of the Octoberest books are Octobery simply because they were published in late September or early October. Many of those _are_ spooky (shout-out to seasonal publishing trends!), but some are not. We could make some efforts at dampening the initial post-publication popularity spike. Or -- and you didn't hear this from me -- those post-publication reviews could fall off the back of a truck. We *could* commit ourselves to more serious statistical mumbo-jumbo, but frankly, most of the fun of a bottle project lies in keeping seriousness of every kind at arm's-length. 
+
+## Uncorking the Bottle
+
+If you pick up the Octoberness question (or the Goodreads dataset) and run with it, I'd love to hear about it! Similarly, I'd be thrilled to read any little bottle projects that you've worked on, especially if they land somewhere near my cutural analytics neighborhood. 
+
+Happy October!
 
 <a name="footnote1">1</a>: Some quick and drity exploratory analysis suggested that 100 total reviews was a reasonable cutoff
