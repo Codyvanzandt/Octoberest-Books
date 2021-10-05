@@ -7,7 +7,7 @@ categories:
 date: 2021-10-05
 ---
 
-## In Search of Spooky Projects
+## In Search of Spooky Time
 
 For the last few Octobers, my inner tech geek and inner October fanatic have been desperate to collaborate on a spooky data science project.
 It's a competitive field, though! There's Janelle Shane's always-excellent neural-net-generated [Halloween costumes](https://www.aiweirdness.com/halloween-costumes-by-the-neural-19-10-14/)
@@ -27,7 +27,7 @@ An Octoberness score of 1, for example, means that a book receives a equal numbe
 A score of 2 means that a book receives twice as many reviews in October compared to an average non-October month.
 And a score of 0.5 means it receives half as many reviews in October compared to an average non-October month.
 
-After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1)</sup> to yield a meaningful Octoberness score, I sorted by Octoberness and collected the top "most-Octoberest" books in a handy little list. I am excessively proud to report that the result speak -- or more thematically, *shriek* -- for themselves. I've detailed top 5 below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
+After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1)</sup> to yield a meaningful Octoberness score, I sorted by Octoberness and collected the top "most-Octoberest" books in a handy little list. I am excessively proud to report that the result speak -- or really, *shriek* -- for themselves. I've detailed top 5 below with clickable book covers that whisk you away to Goodreads.com. The extra-curious reader can find the top 150 on this project's [little Github page.](https://github.com/Codyvanzandt/Octoberest-Books)
 
 ## The Most Octoberest Books
 
@@ -64,7 +64,8 @@ After unscrupulously tossing out books with too few reviews<sup>[1](#myfootnote1
 
 ## Celebrations and Limitations
 
+It's always such a joy to see a simple method yield compelling results! The full list is jam-packed with magic, mystery, and all manner of Things That Go Bump in the Night. The top Octoberness-getter, Neil Gaiman's scary story, "Click Clack the Rattle Bag," is especially lovely and completely new to me. If you can spare 10 minutes, you really must to listen to [Gaimain's New York Public Library reading of the story](https://www.youtube.com/watch?v=imLja6Emezo). It's quite the October mood-setter!
 
-
+Of course, this little bottle project is (by design!) full of omissions, missed-opportunities, ignored-problems, and more besides I'm sure. 
 
 <a name="footnote1">1</a>: Some quick and drity exploratory analysis suggested that 100 total reviews was a reasonable cutoff
