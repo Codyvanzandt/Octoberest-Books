@@ -108,12 +108,7 @@ def parse_date(date):
 
 
 def is_october(review):
-    try:
-        started = parse_date(review["started_at"])
-        finished = parse_date(review["read_at"])
-        return (started.month == 10 or finished.month == 10)
-    except ValueError:
-        return parse_date(review["date_added"]).month == 10
+    return parse_date(review["date_added"]).month == 10
 
 
 class NestedDefaultDict(defaultdict):
